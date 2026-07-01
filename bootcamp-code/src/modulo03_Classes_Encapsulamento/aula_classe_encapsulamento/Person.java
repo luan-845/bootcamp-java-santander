@@ -1,4 +1,4 @@
-package modulo03_Classes_Encapsulamento.aula;
+package modulo03_Classes_Encapsulamento.aula_classe_encapsulamento;
 
 public class Person {
     private final String name;
