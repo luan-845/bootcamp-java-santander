@@ -1,4 +1,4 @@
-package modulo04_Herança_Polimorfismo.Aula;
+package modulo04_Heranca_Polimorfismo.Aula;
 
 public sealed abstract class Employee permits Manager, Salesman{
     protected String name;

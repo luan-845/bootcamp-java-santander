@@ -1,4 +1,4 @@
-package modulo04_Herança_Polimorfismo.Aula;
+package modulo04_Heranca_Polimorfismo.Aula;
 
 public non-sealed class Salesman extends Employee {
     private double percentPerSold;
